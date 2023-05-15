@@ -6,3 +6,49 @@ button shape
 button size
 button color
 */
+
+/* Attributes */
+
+/* Classes */
+
+.calcBody {
+    background-color: black;
+    width: 500px;
+    height: 600px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.display {
+    background-color: grey;
+    width: 400px;
+    height: 100px;
+    transform: translate(50px, 30px);
+    color: White;
+    text-align: right;
+    font-size: 6rem;
+}
+
+.btn {
+    color: white;
+    background-color: Purple;
+    border-color: black;
+    height: 75px;
+    width: 75px;
+    font-size: 1.5rem;
+
+}
+
+.row {
+    display: flexbox;
+    justify-content: center;
+}
+
+.calcMain {
+    width: 500px;
+    transform: translate(100px, 50px);
+    padding: 0;
+    margin: 0;
+}
+/* Id's */
